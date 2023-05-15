@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Suryanshu
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning SpringBoot,Hibernate,RestAPI
+## Hi, I'm `Suryanshu!`
 
-<!---
-suryanshuraj/suryanshuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me
+<!-- * [Portfolio Website](https://rsuryanshu.github.io/ "Portfolio Website") -->
+* [LinkedIn](https://www.linkedin.com/in/santoshsahani/ "LinkedIn")
